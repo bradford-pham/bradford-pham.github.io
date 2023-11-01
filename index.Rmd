@@ -1,12 +1,14 @@
 ---
-title: "My awesome website"
+title: "Brady Pham's Website"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+
 ---
 
-# This is Brady's awesome website
+# Here is some information about me
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+## My favorite anime
+![](image/black clover.jpe)
+
