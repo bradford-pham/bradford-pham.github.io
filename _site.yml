@@ -12,7 +12,7 @@ navbar:
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/brady-pham/
     - text: "Flexdashboard"
-      href: flexdashboard.html
+      href: Flexdashboard.html
       
       
 output:
