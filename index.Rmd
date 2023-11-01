@@ -9,6 +9,13 @@ output:
 
 # Here is some information about me
 
+## I am 24 years old
+
+
 ## My favorite anime
 ![](image/black clover.jpe)
 
+
+
+## I am from Nebraska
+![](image/nebraska.png)
