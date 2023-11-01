@@ -1,0 +1,81 @@
+---
+title: "Brady Pham's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+Email: bp2678@cumc.columbia.edu | Phone: (402)-617-7174 |linkedin.com/in/brady-pham
+
+### EDUCATION 
+Master of Public Health Columbia Mailman School of Public Health, New York, NY 
+
+
+* Department: Epidemiology, GPA: 3.88/4.0 
+* Expected Graduation: May 2024
+Certificate: Applied Biostatistics and Public Health Data Science
+
+University of Nebraska-Lincoln, Lincoln, NE                                    
+
+* Major: Psychology, GPA: 3.94/4.00   
+* Bachelor of Science in Psychology: May 2021
+
+### ACADEMIC HONORS
+
+* Graduated with High Distinction: May 2021          
+* Dean’s List: Fall 2017 - Spring 2021
+* Academic Excellence of Lambda Phi Epsilon International Fraternity Scholarship: Summer 2019
+
+### RESEARCH EXPERIENCES
+
+Columbia Spatial Epidemiology: Columbia University Mailman School of Public Health, New York, NY: February 2023 - Present
+
+
+##### Lab Assistant
+
+* Conducting comprehensive literature reviews on the topic of HIV/AIDS among Black sexual minority men, totaling over 20 in-depth analyses
+* Collaborating with more than 20 distinguished professors worldwide, seeking their invaluable insights, support, and guidance for research endeavors
+* Spearheading the development of a groundbreaking research protocol in Nairobi, Kenya, focusing on the Black sexual minority men population, with the objective of reducing HIV rates and promoting increased HIV testing
+
+
+Dai Shizuka’s Lab: University of Nebraska-Lincoln, Lincoln, NE: August 2020 - August 2021
+
+##### Lab Assistant                                   
+
+* Collected and analyzed over 4,000 data entries through Excel and R to understand the association between bird species 
+* Inspected and Categorized 100 visual and audio recordings for research thesis
+* Brainstormed, constructed, and assembled outdoor experiments with lab coworkers
+
+### WORK EXPERIENCES 
+UNL SARS-CoV-2 Saliva Testing Laboratory University of Nebraska-Lincoln, Lincoln, NE: August 2021 - August 2022
+
+##### Lab Technician 3
+
+* Tested over 500 saliva samples daily for COVID-19 using PCR machine
+*	Composited and analyzed test results using Adobe and Excel
+*	Delegated specific tasks to coworkers to provide test results in a timely manner due to high volume of samples
+
+
+Public Health Department Alameda County, Oakland, CA: June 2021 - August 2021
+
+##### Public Health Intern
+* Selected to be a summer intern by Health Career Connection a highly selective nationwide program
+* Analyzed data from 100 syphilis individuals regarding the number of antibodies produced on Excel for a prevention program
+* Researched and created a PowerPoint regarding 6 different types of STDs to prevent and spread awareness
+
+### SKILLS
+##### Analytical Tools
+* Intermediate: SAS
+* Beginner: R, SQL, Tableu
+
+##### Computing Tools
+* Advanced: Microsoft Office (Word, Excel, PowerPoint), Google Suite
+* Intermediate: Adobe Acrobat
+Lab Abilities
+* Advanced: Polymerase Chain Reaction Machine, Pipetting
+
+##### Languages
+* Advanced: English
+* Intermediate: Vietnamese
