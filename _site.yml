@@ -11,8 +11,8 @@ navbar:
       href: https://github.com/bradford-pham
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/brady-pham/
-    - text: "Plotly"
-      href: plotly.html
+    - text: "Flexdashboard"
+      href: flexdashboard.html
       
       
 output:

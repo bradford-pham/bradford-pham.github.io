@@ -1,0 +1,67 @@
+---
+title: "FlexDashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r}
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+```
+
+
+```{r}
+
+data("instacart")
+
+
+instacart_new = 
+  instacart |>
+  select(
+    user_id, order_dow, order_hour_of_day, product_name,aisle_id, aisle, department, days_since_prior_order
+  ) |>
+  filter(department == "meat seafood",
+         user_id %in% 1:500)
+
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Which Days that Each Meat Department was Visted
+
+```{r}
+
+instacart_new %>%
+  plot_ly(y = ~order_dow, color = ~aisle, type = "box", colors = "viridis")
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### How many times the aisle has been visted
+
+```{r}
+instacart_new %>%
+  count(aisle) |>
+  mutate(aisle = fct_reorder(aisle, n)) |>
+  plot_ly(x = ~aisle, y = ~n, color = ~aisle, type = "bar", colors = "viridis")
+```
+
+### Which hour of the day was most used to start a new order
+
+```{r}
+scatter_ggplot = 
+ instacart_new |>
+  ggplot(aes(x = order_hour_of_day, y = days_since_prior_order, color = user_id)) +
+  geom_point(alpha = 0.25) +
+  coord_cartesian()
+
+ggplotly(scatter_ggplot)
+```
+
